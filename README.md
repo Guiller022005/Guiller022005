@@ -2,7 +2,7 @@
 <h1 align="center" align="center">Hi 👋, I'm José Guillermo Paúl Díaz</h1>
 <h3 align="center">A passionate Full-Stack developer from Colombia</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=guiller022005&label=Profile%20views&color=0e75b6&style=flat" alt="guiller022005" /> </p>
+<p align="center"><img src="https://visitcount.itsvg.in/api?id=guiller022005&label=Profile%20Views&color=F75C03&icon=5&pretty=false" alt="Profile views" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guiller022005" alt="guiller022005" /></a> </p>
 
@@ -22,3 +22,18 @@ align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/ic
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guiller022005&show_icons=true&locale=en" alt="guiller022005" /></p>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guiller022005&" alt="guiller022005" /></p>
+
+<picture style="justify-content: center; display: flex;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img alt="Red GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake-red.svg">
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guiller022005&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiller022005&theme=dracula&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</div>
