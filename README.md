@@ -2,7 +2,7 @@
 <h1 align="center" align="center">Hi 👋, I'm José Guillermo Paúl Díaz</h1>
 <h3 align="center">A passionate Full-Stack developer from Colombia</h3>
 
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=guiller022005&label=Profile%20Views&color=F75C03&icon=5&pretty=false" alt="Profile views" /></p>
+<p align="center"><img src="https://visitcount.itsvg.in/api?id=RubioJuan&label=Profile%20Views&color=0&icon=5&pretty=false" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guiller022005" alt="guiller022005" /></a> </p>
 
