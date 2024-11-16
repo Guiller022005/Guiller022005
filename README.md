@@ -23,7 +23,7 @@ align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/ic
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=guiller022005&theme=dracula&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></p>
 
-<picture style="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake.svg">
-</picture>  
+<p align="center">
+  <img src="https://github.com/guiller022005/Guiller022005/output/github-contribution-grid-snake-double.svg" alt="Double Snake Animation" />
+</p>
+
