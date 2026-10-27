@@ -8,10 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/AventoAI-Visit_Company-black?style=for-the-badge&logo=safari&logoColor=cyan)](https://avento.com.co)
 [![Email](https://img.shields.io/badge/Direct_Contact-pauldiazjoseguillermo@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauldiazjoseguillermo@gmail.com)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=guiller022005&label=Profile%20Views&color=10&icon=5&pretty=true" alt="Profile Views" />
-</p>
-
 ---
 
 </div>
@@ -82,10 +78,4 @@ Lidero la dirección estratégica y técnica en **AventoAI S.A.S.**, diseñando 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guiller022005/Guiller022005/output/github-contribution-grid-snake.svg">
     <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Guiller022005/Guiller022005/output/github-contribution-grid-snake-dark.svg">
   </picture>
-</div>
-
----
-
-<div align="center">
-  <sub>Construyendo software con propósito y escalabilidad en <a href="https://avento.com.co"><b>AventoAI S.A.S.</b></a></sub>
 </div>
