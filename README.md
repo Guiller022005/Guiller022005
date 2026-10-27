@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ José Guillermo Paúl Díaz
-### **CEO & Co-Founder at [AventoAI S.A.S.](https://avento.com.co)** 🦉
+### **CEO & Co-Founder at [AventoAI S.A.S.](https://aventoai.com)** 🦉
 **Software Architect | Full-Stack & AI Systems Engineer | Tech Leader**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-guillermo-paúl-díaz)
@@ -68,14 +68,4 @@ Lidero la dirección estratégica y técnica en **AventoAI S.A.S.**, diseñando 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiller022005&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=ff0055" alt="Racha en GitHub" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guiller022005/Guiller022005/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guiller022005/Guiller022005/output/github-contribution-grid-snake.svg">
-    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Guiller022005/Guiller022005/output/github-contribution-grid-snake-dark.svg">
-  </picture>
 </div>
